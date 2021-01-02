@@ -1,5 +1,5 @@
 # leetcode
-My JAVA Solutions to leetcode problems
+My Solutions to leetcode problems
 
 |#|Title|Solution|Difficulty|
 |---|-----|--------|----------|
