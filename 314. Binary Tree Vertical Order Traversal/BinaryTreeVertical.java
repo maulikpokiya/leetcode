@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class BinaryTreeVertical {
 
     Map<Integer,List<Integer>> nodesByCol;
 
