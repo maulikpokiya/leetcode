@@ -1,6 +1,6 @@
 /**
  * Definition for a binary tree node.
- * public class BinaryTreeDiameter {
+ * public class TreeNode {
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class BinaryTreeDiameter {
     private int diameter;
     public int diameterOfBinaryTree(TreeNode root) {
         if(root == null) 
