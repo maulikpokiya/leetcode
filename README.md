@@ -8,6 +8,7 @@ My Solutions to leetcode problems
 |3|[Longest Sub-String](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./String/LongestSubString.java)|Medium|
 |4|[Find Median Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Array/FindMedianSortedArrays.java)|Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
+|121|[Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|Easy|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal/BinaryTreeVertical.java)|Medium|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|[Java](./408.%20Valid%20Word%20Abbreviation/ValidAbbreviation.java)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Java](./543.%20Diameter%20of%20Binary%20Tree/BinaryTreeDiameter.java)|Easy|
