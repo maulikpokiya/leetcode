@@ -7,6 +7,7 @@ My Solutions to leetcode problems
 |2|[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./LinkedList/AddTwoNumbers.java)|Medium|
 |3|[Longest Sub-String](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./String/LongestSubString.java)|Medium|
 |4|[Find Median Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Array/FindMedianSortedArrays.java)|Hard|
+|27|[Remove Element](https://leetcode.com/problems/remove-element)|[Java](./27.%20Remove%20Element/Solution.java)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
 |121|[Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./199.%20Binary%20Tree%20Right%20Side%20View)|Medium|
