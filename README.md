@@ -18,3 +18,4 @@ My Solutions to leetcode problems
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Java](./680.%20Valid%20Palindrome%20II/Solution.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|[Java](./1004.%20Max%20Consecutive%20Ones%20III/Solution.java)|Medium|
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)|[Java](./1100.%20Find%20K-Length%20Substrings%20With%20No%20Repeated%20Characters/Solution.java)|Medium|
+|2390|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[Java](./2390.%20Removing%20Stars%20From%20a%20String/Solution.java)|Medium|
