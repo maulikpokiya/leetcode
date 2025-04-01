@@ -6,7 +6,8 @@ My Solutions to leetcode problems
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./Array/TwoSum.java)|Easy|
 |2|[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./LinkedList/AddTwoNumbers.java)|Medium|
 |3|[Longest Sub-String](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./String/LongestSubString.java)|Medium|
-|4|[Find Median Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Array/FindMedianSortedArrays.java)|Hard|
+|4|[Find Median Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Java](./Array/FindMedianSortedArrays.java)|Hard|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Java](./22.%20Generate%20Parentheses/Solution.java)|Medium|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Java](./27.%20Remove%20Element/Solution.java)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Java](./39.%20Combination%20Sum/Solution.java)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Java](./40.%20Combination%20Sum%20II/Solution.java)|Medium|
