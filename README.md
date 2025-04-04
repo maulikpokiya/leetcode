@@ -17,6 +17,7 @@ My Solutions to leetcode problems
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./209.%20Minimum%20Size%20Subarray%20Sum/Solution.java)|Medium|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal/BinaryTreeVertical.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Java](./347.%20Top%20K%20Frequent%20Elements/Solution.java)|Medium|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./392.%20Is%20Subsequence/Solution.java)|Easy|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|[Java](./408.%20Valid%20Word%20Abbreviation/ValidAbbreviation.java)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Java](./543.%20Diameter%20of%20Binary%20Tree/BinaryTreeDiameter.java)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Java](./680.%20Valid%20Palindrome%20II/Solution.java)|Easy|
