@@ -11,6 +11,7 @@ My Solutions to leetcode problems
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Java](./27.%20Remove%20Element/Solution.java)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Java](./39.%20Combination%20Sum/Solution.java)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Java](./40.%20Combination%20Sum%20II/Solution.java)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Java](./50.%20Pow(x%2C%20n)/Solution.java)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
 |121|[Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./199.%20Binary%20Tree%20Right%20Side%20View)|Medium|
