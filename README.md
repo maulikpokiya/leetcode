@@ -14,6 +14,7 @@ My Solutions to leetcode problems
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Java](./50.%20Pow(x%2C%20n)/Solution.java)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
 |121|[Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](./125.%20Valid%20Palindrome/Solution.java)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./199.%20Binary%20Tree%20Right%20Side%20View)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./209.%20Minimum%20Size%20Subarray%20Sum/Solution.java)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Java](./303.%20Range%20Sum%20Query%20-%20Immutable/NumArray.java)|Easy|
