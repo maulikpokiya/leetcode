@@ -25,6 +25,7 @@ My Solutions to leetcode problems
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Java](./392.%20Is%20Subsequence/Solution.java)|Easy|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|[Java](./408.%20Valid%20Word%20Abbreviation/ValidAbbreviation.java)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Java](./543.%20Diameter%20of%20Binary%20Tree/BinaryTreeDiameter.java)|Easy|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./560.%20Subarray%20Sum%20Equals%20K/Solution.java)|Medium|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Java](./680.%20Valid%20Palindrome%20II/Solution.java)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Java](./938.%20Range%20Sum%20of%20BST/Solution.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|[Java](./1004.%20Max%20Consecutive%20Ones%20III/Solution.java)|Medium|
