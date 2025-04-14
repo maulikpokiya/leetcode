@@ -22,6 +22,7 @@ My Solutions to leetcode problems
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Java](./253.%20Meeting%20Rooms%20II/Solution.java)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Java](./303.%20Range%20Sum%20Query%20-%20Immutable/NumArray.java)|Easy|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|[Java](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal/BinaryTreeVertical.java)|Medium|
+|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Java](./325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k/Solution.java)|Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)|[Java](./346.%20Moving%20Average%20from%20Data%20Stream/MovingAverage.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Java](./347.%20Top%20K%20Frequent%20Elements/Solution.java)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Java](./392.%20Is%20Subsequence/Solution.java)|Easy|
