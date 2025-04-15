@@ -3,14 +3,14 @@ My Solutions to leetcode problems
 
 |#|Title|Solution|Difficulty|
 |---|-----|--------|----------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum)|[Java](./Array/TwoSum.java)|Easy|
-|2|[Add two numbers](https://leetcode.com/problems/add-two-numbers)|[Java](./LinkedList/AddTwoNumbers.java)|Medium|
-|3|[Longest Sub-String](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Java](./String/LongestSubString.java)|Medium|
-|4|[Find Median Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Java](./Array/FindMedianSortedArrays.java)|Hard|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Java](./22.%20Generate%20Parentheses/Solution.java)|Medium|
-|27|[Remove Element](https://leetcode.com/problems/remove-element)|[Java](./27.%20Remove%20Element/Solution.java)|Easy|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Java](./39.%20Combination%20Sum/Solution.java)|Medium|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Java](./40.%20Combination%20Sum%20II/Solution.java)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./Array/TwoSum.java)|Easy|
+|2|[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./LinkedList/AddTwoNumbers.java)|Medium|
+|3|[Longest Sub-String](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./String/LongestSubString.java)|Medium|
+|4|[Find Median Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./Array/FindMedianSortedArrays.java)|Hard|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./22.%20Generate%20Parentheses/Solution.java)|Medium|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./27.%20Remove%20Element/Solution.java)|Easy|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./39.%20Combination%20Sum/Solution.java)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./40.%20Combination%20Sum%20II/Solution.java)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Java](./50.%20Pow(x%2C%20n)/Solution.java)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search)|[Java](./79.%20Word%20Search/Solution.java)|Medium|
@@ -24,8 +24,8 @@ My Solutions to leetcode problems
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Java](./303.%20Range%20Sum%20Query%20-%20Immutable/NumArray.java)|Easy|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|[Java](./314.%20Binary%20Tree%20Vertical%20Order%20Traversal/BinaryTreeVertical.java)|Medium|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[Java](./325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k/Solution.java)|Medium|
-|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)|[Java](./346.%20Moving%20Average%20from%20Data%20Stream/MovingAverage.java)|Easy|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Java](./347.%20Top%20K%20Frequent%20Elements/Solution.java)|Medium|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Java](./346.%20Moving%20Average%20from%20Data%20Stream/MovingAverage.java)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./347.%20Top%20K%20Frequent%20Elements/Solution.java)|Medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Java](./392.%20Is%20Subsequence/Solution.java)|Easy|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|[Java](./408.%20Valid%20Word%20Abbreviation/ValidAbbreviation.java)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Java](./543.%20Diameter%20of%20Binary%20Tree/BinaryTreeDiameter.java)|Easy|
