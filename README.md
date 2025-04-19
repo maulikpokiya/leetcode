@@ -16,7 +16,8 @@ My Solutions to leetcode problems
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search)|[Java](./79.%20Word%20Search/Solution.java)|Medium|
 |121|[Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Java](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|Easy|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](./125.%20Valid%20Palindrome/Solution.java)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./125.%20Valid%20Palindrome/Solution.java)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./master/162.%20Find%20Peak%20Element/Solution.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Java](./199.%20Binary%20Tree%20Right%20Side%20View)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Java](./209.%20Minimum%20Size%20Subarray%20Sum/Solution.java)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/Solution.java)|Medium|
