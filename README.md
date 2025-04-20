@@ -15,6 +15,7 @@ My Solutions to leetcode problems
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Java](./50.%20Pow(x%2C%20n)/Solution.java)|Medium|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Java](./71.%20Simplify%20Path/SimplifyPath.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search)|[Java](./79.%20Word%20Search/Solution.java)|Medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./88.%20Merge%20Sorted%20Array/Solution.java)|Easy|
 |121|[Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Java](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./125.%20Valid%20Palindrome/Solution.java)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./master/162.%20Find%20Peak%20Element/Solution.java)|Medium|
