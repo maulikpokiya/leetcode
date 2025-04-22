@@ -39,6 +39,7 @@ My Solutions to leetcode problems
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|[Java](./1004.%20Max%20Consecutive%20Ones%20III/Solution.java)|Medium|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Java](./1091.%20Shortest%20Path%20in%20Binary%20Matrix/Solution.java)|Medium|
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)|[Java](./1100.%20Find%20K-Length%20Substrings%20With%20No%20Repeated%20Characters/Solution.java)|Medium|
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Java](./1768.%20Merge%20Strings%20Alternately/Solution.java)|Easy|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system)|[Java](./2043.%20Simple%20Bank%20System/Bank.java)|Medium|
 |2390|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)|[Java](./2390.%20Removing%20Stars%20From%20a%20String/Solution.java)|Medium|
 |2843|[Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)|[Java](./2843.%20Count%20Symmetric%20Integers/Solution.java)|Easy|
